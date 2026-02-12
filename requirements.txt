@@ -1,0 +1,6 @@
+torch
+torchvision
+datasets
+pandas
+numpy
+transformers
